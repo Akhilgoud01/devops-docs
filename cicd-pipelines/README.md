@@ -1,6 +1,4 @@
-<h1 align="center">🚀 CI/CD Pipelines</h1>
-
-<p align="center"><b>Build, test, and ship code automatically — every single time.</b></p>
+<p align="center"><img src="../assets/banners/cicd-pipelines.svg" width="100%" alt="CI/CD Pipelines"></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/topic-CI%2FCD-blue?style=for-the-badge" alt="topic">

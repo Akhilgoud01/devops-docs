@@ -1,6 +1,4 @@
-<h1 align="center">🧭 DevOps Roadmap & Interviews</h1>
-
-<p align="center"><b>A clear path from beginner to job-ready, with projects, interview answers, and resume tips.</b></p>
+<p align="center"><img src="../assets/banners/devops-roadmap-and-interviews.svg" width="100%" alt="DevOps Roadmap &amp; Interviews"></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/topic-career-8E44AD?style=for-the-badge&logo=target&logoColor=white" alt="topic">

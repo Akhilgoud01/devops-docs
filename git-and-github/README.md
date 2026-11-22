@@ -1,6 +1,4 @@
-<h1 align="center">🌿 Git and GitHub</h1>
-
-<p align="center"><b>Track every change, work together without fear, and ship with confidence.</b></p>
+<p align="center"><img src="../assets/banners/git-and-github.svg" width="100%" alt="Git and GitHub"></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/topic-Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="topic" />

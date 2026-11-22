@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="288" viewBox="0 0 1000 288" role="img" aria-label="Helm &amp; GitOps">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00f5ff"/><stop offset="0.55" stop-color="#ff6a00"/><stop offset="1" stop-color="#ff2bd6"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05080f"/><stop offset="1" stop-color="#0d1426"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#00f5ff" stroke-opacity="0.07" stroke-width="1"/></pattern>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft"><feGaussianBlur stdDeviation="30"/></filter>
+</defs>
+<rect width="1000" height="288" rx="18" fill="url(#bg)"/>
+<circle cx="140" cy="40" r="110" fill="#ff6a00" opacity="0.28" filter="url(#soft)"/>
+<circle cx="880" cy="258" r="120" fill="#ff2bd6" opacity="0.22" filter="url(#soft)"/>
+<rect width="1000" height="288" rx="18" fill="url(#grid)"/>
+<rect x="1.5" y="1.5" width="997" height="285" rx="17" fill="none" stroke="url(#g)" stroke-width="2.5" opacity="0.9"/>
+<circle cx="32" cy="30" r="6" fill="#ff5f56"/><circle cx="54" cy="30" r="6" fill="#ffbd2e"/><circle cx="76" cy="30" r="6" fill="#27c93f"/>
+<text x="100" y="35" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#6b7a99">akhil@devops-docs:~/helm-and-gitops</text>
+<text x="40" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" fill="#39ff14">$ <tspan fill="#c9d1d9">cat README.md</tspan><tspan fill="#39ff14"> <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>█</tspan></text>
+<text x="40" y="162" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="58" font-weight="800" fill="url(#g)" filter="url(#glow)">Helm &amp; GitOps</text>
+<text x="40" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" fill="#9fb3c8">Package Kubernetes apps with Helm, and let Git be the single source of truth.</text>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><rect x="40" y="237" width="142" height="26" rx="13" fill="#00f5ff" fill-opacity="0.10" stroke="#00f5ff" stroke-opacity="0.55"/><text x="52" y="254" fill="#00f5ff">simple english</text><rect x="191.60000000000002" y="237" width="91" height="26" rx="13" fill="#00f5ff" fill-opacity="0.10" stroke="#00f5ff" stroke-opacity="0.55"/><text x="203.60000000000002" y="254" fill="#00f5ff">diagrams</text><rect x="292.8" y="237" width="91" height="26" rx="13" fill="#00f5ff" fill-opacity="0.10" stroke="#00f5ff" stroke-opacity="0.55"/><text x="304.8" y="254" fill="#00f5ff">hands-on</text></g>
+<rect x="0" y="284" width="160" height="3" rx="1.5" fill="url(#g)" filter="url(#glow)"><animate attributeName="x" values="0;840;0" dur="6s" repeatCount="indefinite"/></rect>
+</svg>

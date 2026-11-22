@@ -1,6 +1,4 @@
-<h1 align="center">🐧 Linux for DevOps</h1>
-
-<p align="center"><b>The command line skills every DevOps engineer uses every single day.</b></p>
+<p align="center"><img src="../assets/banners/linux-for-devops.svg" width="100%" alt="Linux for DevOps"></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/topic-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="topic" />

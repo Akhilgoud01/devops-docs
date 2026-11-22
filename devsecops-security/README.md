@@ -1,6 +1,4 @@
-<h1 align="center">🛡️ DevSecOps & Security</h1>
-
-<p align="center"><b>Build security into every step of the pipeline, not onto the end of it.</b></p>
+<p align="center"><img src="../assets/banners/devsecops-security.svg" width="100%" alt="DevSecOps &amp; Security"></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/topic-security-C0392B?style=for-the-badge&logo=hackthebox&logoColor=white" alt="topic">

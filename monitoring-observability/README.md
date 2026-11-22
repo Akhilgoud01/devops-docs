@@ -1,6 +1,4 @@
-<h1 align="center">📈 Monitoring & Observability</h1>
-
-<p align="center"><b>See what your systems are doing, know when they break, and fix them fast.</b></p>
+<p align="center"><img src="../assets/banners/monitoring-observability.svg" width="100%" alt="Monitoring &amp; Observability"></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/topic-Prometheus%20%7C%20Grafana%20%7C%20ELK-E6522C?style=for-the-badge" alt="topic">
@@ -8,24 +6,7 @@
   <img src="https://img.shields.io/badge/status-complete-blue?style=for-the-badge" alt="status">
 </p>
 
-## 💡 Why this repo
-
-If you cannot see your system, you cannot run it well. This repo explains metrics, logs, and traces, then shows how to use Prometheus, Grafana, Loki or ELK, and OpenTelemetry. It ends with on-call habits: runbooks and blameless postmortems.
-
-## 🗺️ Learning path
-
-```mermaid
-flowchart LR
-    A["01 Monitoring vs observability"] --> B["02 Prometheus"]
-    B --> C["03 Grafana and alerting"]
-    C --> D["04 Logging"]
-    D --> E["05 Tracing and incidents"]
-```
-
-## 📚 Table of contents
-
-| # | Doc | What you will learn |
-|---|-----|---------------------|
+---|-----|---------------------|
 | 01 | [Monitoring vs observability](docs/01-monitoring-vs-observability.md) | Metrics, logs, traces, golden signals, SLOs |
 | 02 | [Prometheus and PromQL](docs/02-prometheus-and-promql.md) | Scraping, exporters, queries |
 | 03 | [Grafana dashboards and alerting](docs/03-grafana-dashboards-and-alerting.md) | Build dashboards and useful alerts |

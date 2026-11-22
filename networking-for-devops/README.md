@@ -1,6 +1,4 @@
-<h1 align="center">🌍 Networking for DevOps</h1>
-
-<p align="center"><b>Understand how data travels, so you can fix it when it does not.</b></p>
+<p align="center"><img src="../assets/banners/networking-for-devops.svg" width="100%" alt="Networking for DevOps"></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/topic-networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" alt="topic">

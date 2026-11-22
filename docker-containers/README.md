@@ -1,6 +1,4 @@
-<h1 align="center">🐳 Docker & Containers</h1>
-
-<p align="center"><b>Package your app once. Run it anywhere, the same way.</b></p>
+<p align="center"><img src="../assets/banners/docker-containers.svg" width="100%" alt="Docker &amp; Containers"></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/topic-containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="topic">

@@ -1,6 +1,4 @@
-<h1 align="center">🚀 DevOps Fundamentals</h1>
-
-<p align="center"><b>Understand what DevOps really is, before you touch a single tool.</b></p>
+<p align="center"><img src="../assets/banners/devops-fundamentals.svg" width="100%" alt="DevOps Fundamentals"></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/topic-DevOps%20Basics-blueviolet?style=for-the-badge" alt="topic" />

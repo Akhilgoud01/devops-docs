@@ -1,6 +1,4 @@
-<h1 align="center">🐚 Scripting with Bash & Python</h1>
-
-<p align="center"><b>Automate the boring stuff — the core skill behind every DevOps job.</b></p>
+<p align="center"><img src="../assets/banners/scripting-bash-python.svg" width="100%" alt="Scripting with Bash &amp; Python"></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/topic-scripting-blue?style=for-the-badge" alt="topic">

@@ -1,13 +1,11 @@
-<div align="center">
+<p align="center"><img src="assets/banners/_hub.svg" width="100%" alt="DevOps Docs"></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=DevOps%20Docs&fontSize=60&fontColor=ffffff&desc=Every%20DevOps%20topic%20in%20simple%20English%20with%20diagrams&descSize=18&descAlignY=62" width="100%" alt="DevOps Docs"/>
-
-![Topics](https://img.shields.io/badge/topics-14-38bdf8?style=for-the-badge)
-![Docs](https://img.shields.io/badge/docs-88%20files-2c5364?style=for-the-badge)
-![Diagrams](https://img.shields.io/badge/diagrams-166-7B42BC?style=for-the-badge)
-![Level](https://img.shields.io/badge/level-beginner%20to%20pro-success?style=for-the-badge)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/topics-14-00f5ff?style=for-the-badge&labelColor=0a0e17" alt="topics">
+  <img src="https://img.shields.io/badge/docs-88%20files-7c4dff?style=for-the-badge&labelColor=0a0e17" alt="docs">
+  <img src="https://img.shields.io/badge/diagrams-166-ff2bd6?style=for-the-badge&labelColor=0a0e17" alt="diagrams">
+  <img src="https://img.shields.io/badge/level-beginner%20to%20pro-39ff14?style=for-the-badge&labelColor=0a0e17" alt="level">
+</p>
 
 ## What is this?
 

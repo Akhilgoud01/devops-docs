@@ -1,6 +1,4 @@
-<h1 align="center">☸️ Kubernetes Guide</h1>
-
-<p align="center"><b>Run, scale, and heal your containers automatically.</b></p>
+<p align="center"><img src="../assets/banners/kubernetes-guide.svg" width="100%" alt="Kubernetes Guide"></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/topic-orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="topic">
