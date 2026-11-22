@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/level-beginner%20to%20pro-39ff14?style=for-the-badge&labelColor=0a0e17" alt="level">
 </p>
 
+<p align="center"><img src="assets/marquee.svg" width="100%" alt="topics"></p>
+
 ## What is this?
 
 One repo, 14 DevOps topics. Every doc has a plain-English explanation with a real-life analogy, Mermaid diagrams, hands-on commands, common mistakes and a recap. GitHub renders the diagrams automatically.
